@@ -8,7 +8,7 @@ React Boilerplate code for SWE Mod-1 Project
 4. In a seperate terminal, `npm run start-dev`
 5. Find your bliss!
 
-Docker 
+## Docker 
 1. Install Docker Desktop https://docs.docker.com/get-docker/ 
 2. Sign up in Docker hub https://hub.docker.com/
 3. docker --version
