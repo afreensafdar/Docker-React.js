@@ -22,4 +22,6 @@ React Boilerplate code for SWE Mod-1 Project
 11. docker push your_docker_username/swe-mod1-starter
 12. Go to docker-hub 
 13. docker run -d --name your_container_anyname -p 3000:3000 \your_docker_username/swe-mod1-starter //or use this to name container 
+14. docker-compose up
+15. docker volume ls
 
