@@ -15,12 +15,11 @@ React Boilerplate code for SWE Mod-1 Project
 4. docker build -t dockerhubreponame/swe-mod1-starter .
 5. docker ps
 6. docker run -d -p 3000:3000 dockerhubreponame/swe-mod1-starter 
---  docker run -d --name anyname -p 3000:3000 \dockerhubreponame/swe-mod1-starter //or can use this to name container 
 7. docker ps
 8. docker log containerID
 9. docker stop containerID
 10. docker image build -t dockerhubreponame/swe-mod1-starter .
 11. docker push dockerhubreponame/swe-mod1-starter
 12. Go to docker-hub 
-
+13. docker run -d --name anyname -p 3000:3000 \dockerhubreponame/swe-mod1-starter //or use this to name container 
 
